@@ -1,0 +1,1 @@
+{"name": "50-we-need-a-quick-and-easy-tool--firebase-100630", "spec": {"port": 8000, "containers": [{"image": "", "name": "50-we-need-a-quick-and-easy-tool--firebase-100630", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
